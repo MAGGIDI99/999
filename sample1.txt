@@ -2,5 +2,5 @@ one
 two
 three
 four
-five from feature-1 (local)
-six from develop (remote)
+five from develop
+six from feature-1 (local)
